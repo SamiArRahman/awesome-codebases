@@ -8,7 +8,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Use the following format: `[CODEBASE](LINK) - DESCRIPTION.`
 - New additions should be added in alphabetical order.
 - New categories, or improvements to the existing categorization are welcome.
-- Keep descriptions short and simple, but descriptive. You can use the "description" section of the repository.
+- Keep descriptions short|simple, but  sdadescriptive. You can use the "description" section of the repository.
 - Check your spelling and grammar.
 
 Thank you for your suggestions!
